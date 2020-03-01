@@ -6,11 +6,11 @@
 ![Screenshot_442](https://user-images.githubusercontent.com/56321281/75635420-b8df2100-5bf4-11ea-94c0-3cc32aeb8596.png)	
 
 <br>
+
     Criar uma conta bancária (utilizando structs):
 		  - deposito
 		  - saque
 		  - extrato
-      
     # Registrando uma nova conta:
 ![Screenshot_433](https://user-images.githubusercontent.com/56321281/75635118-4b31f580-5bf2-11ea-815f-308c8d129ff3.png)
  <br>   
