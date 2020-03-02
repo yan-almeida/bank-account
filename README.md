@@ -30,7 +30,7 @@ _sem registro salvo_
 _com registros salvos_   
 ![Screenshot_438](https://user-images.githubusercontent.com/56321281/75635255-5afe0980-5bf3-11ea-946d-e60d91acdc3c.png)    
 <br>   
-    # Saque em dinheiro - se o valor for mais do que o o valor contido, não será registrado 
+    # Saque em dinheiro - se o valor for mais do que o valor contido, não será registrado 
 ![Screenshot_439](https://user-images.githubusercontent.com/56321281/75635266-7ec14f80-5bf3-11ea-8706-ce4b8f16ede1.png)
 _retirando $ 36 da conta - altera valor de saldo_    
 ![Screenshot_440](https://user-images.githubusercontent.com/56321281/75635304-b6c89280-5bf3-11ea-8c51-18b525cac709.png)   
